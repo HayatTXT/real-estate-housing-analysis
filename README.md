@@ -160,16 +160,16 @@ Business Problem → Python EDA → SQL Analysis → Power BI Dashboard → Proj
 **Python:**
 ```bash
 pip install pandas matplotlib seaborn sqlalchemy
-jupyter notebook python/housing_analysis.ipynb
+jupyter notebook python/housing analysis python.ipynb
 ```
 
 **SQL:**
 ```bash
 # Import dataset into MySQL first, then run:
-mysql -u root -p your_database < sql/property_sales_queries.sql
+mysql -u root -p your_database < sql/Property_sales_sql.sql
 ```
 
 **Power BI:**
 ```
-Open dashboard/Real_Estate_Dashboard.pbix in Power BI Desktop
+Open dashboard/Real State Analysis.pbix in Power BI Desktop
 ```
