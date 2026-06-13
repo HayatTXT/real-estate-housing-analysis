@@ -11,6 +11,7 @@ real-estate-market-analysis-denmark/
 │
 ├── data/
 │   └── Housing Data Raw.csv              # Raw dataset
+│   └── property_sales cleaned.csv        # Cleaned dataset
 │
 ├── python/
 │   └── housing analysis python.ipynb          # Data cleaning, EDA & feature engineering
