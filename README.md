@@ -10,19 +10,22 @@
 real-estate-market-analysis-denmark/
 │
 ├── data/
-│   └── property_sales.csv              # Raw dataset
+│   └── Housing Data Raw.csv              # Raw dataset
 │
 ├── python/
-│   └── housing_analysis.ipynb          # Data cleaning, EDA & feature engineering
+│   └── housing analysis python.ipynb          # Data cleaning, EDA & feature engineering
 │
 ├── sql/
-│   └── property_sales_queries.sql      # 18 business SQL queries
+│   └── Property_sales_sql.sql      # 18 business SQL queries
 │
 ├── dashboard/
-│   └── Real_Estate_Dashboard.pbix      # Power BI dashboard file
+│   └── Real State Analysis.pbix      # Power BI dashboard file
 │
 ├── report/
-│   └── Real_Estate_Report.docx         # Full project report
+│   └── Real_Estate_Housing_Analysis_Report.pdf
+│
+├── Presentation/
+│   └── Real_Estate_Analysis_PPT.pptx     # Report Summary PPT
 │
 └── README.md
 ```
